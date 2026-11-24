@@ -8,6 +8,9 @@ use to describe the entrant.
 import os
 
 WORD = "placeholder"
+# "placeholder": the funniest honest word an ex could pick. It stings
+# because it is true (a stand-in, never the real thing) yet lands as a
+# joke anyone who has been dumped can instantly relate to.
 
 
 def main() -> None:
